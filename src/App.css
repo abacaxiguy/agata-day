@@ -132,7 +132,7 @@ body {
     bottom: -400px;
     font-size: 80px;
     animation: agata 6s linear infinite;
-    left: 40%;
+    left: 30%;
     color: #ffffff;
     text-shadow: 0 0 2px #ffffff, 0 0 10px #ffffff, 0 0 20px #0ba9ca, 0 0 30px #0ba9ca, 0 0 40px #0ba9ca, 0 0 50px #0ba9ca;
 }
@@ -141,8 +141,8 @@ body {
     position: absolute;
     font-size: 40px;
     bottom: -150px;
-    animation: agata 6s linear infinite;
-    left: 10%;
+    animation: agata 3s linear infinite;
+    left: 0%;
     color: #ffffff;
     text-shadow: 0 0 2px #ffffff, 0 0 10px #ffffff, 0 0 20px #0bca3b, 0 0 30px #0bca0b, 0 0 40px #0bca0b, 0 0 50px #0bca0b;
 }
@@ -150,10 +150,9 @@ body {
 .agata3 {
     position: absolute;
     font-size: 60px;
-    width: 100%;
     bottom: -150px;
-    animation: agata 6s linear infinite;
-    left: 80%;
+    animation: agata 9s linear infinite;
+    left: 65%;
     color: #ffffff;
     text-shadow: 0 0 2px #ffffff, 0 0 10px #ffffff, 0 0 20px #a40bca, 0 0 30px #a40bca, 0 0 40px #ca0baa, 0 0 50px #ca0bb0;
 }
