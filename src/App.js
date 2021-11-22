@@ -17,9 +17,9 @@ function App() {
                         <div class="rect12"></div>
                         <div class="rect13"></div>
                         <div class="rect14"></div>
-                        <div class="agata">Agata BDAY</div>
-                        <div class="agata2">Agata BDAY</div>
-                        <div class="agata3">Agata BDAY</div>
+                        <div class="agata">Agata day 🎂</div>
+                        <div class="agata2">Agata day 🎂</div>
+                        <div class="agata3">Agata day 🎂</div>
                         <div class="rect16"></div>
                         <div class="rect17"></div>
                         <div class="rect19"></div>
